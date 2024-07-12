@@ -27,12 +27,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/face-landmark-detection.git
+    git clone https://github.com/MDSALMANSHAMS/Facial_monitoring_CAM.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd face-landmark-detection
+    cd Facial_monitoring_CAM
     ```
 
 3. Open `index.html` in your favorite web browser.
